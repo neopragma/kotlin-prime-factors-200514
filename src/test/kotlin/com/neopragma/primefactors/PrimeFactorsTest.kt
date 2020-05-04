@@ -1,4 +1,4 @@
-package com.neopragma.primefactors.step1.fail
+package com.neopragma.primefactors
 
 import io.kotest.core.spec.style.DescribeSpec
 

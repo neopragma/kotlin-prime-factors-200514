@@ -1,36 +1,6 @@
-# Kotlin Prime Factors Kata Sample Solution 
+# Kotlin Prime Factors Kata Starter Code for 14 May 2020
 
-This is an annotated reference solution for the Prime Factors kata in Kotlin. 
-
-After installing Gradle on your system, you can install the Gradle wrapper script with this command:
-
-```shell 
-gradle wrapper --gradle-version=6.3
-```
-
-Then you can run the tests for each step in the kata with these commands: 
-
-```shell 
-./gradlew test --tests com.neopragma.primefactors.step1.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step1.pass.* 
-./gradlew test --tests com.neopragma.primefactors.step1.refactored.* 
-./gradlew test --tests com.neopragma.primefactors.step2.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step2.pass.* 
-./gradlew test --tests com.neopragma.primefactors.step3.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step3.pass.* 
-./gradlew test --tests com.neopragma.primefactors.step3.refactored.* 
-./gradlew test --tests com.neopragma.primefactors.step4.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step4.pass.*
-./gradlew test --tests com.neopragma.primefactors.step5.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step5.pass.*
-./gradlew test --tests com.neopragma.primefactors.step6.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step6.pass.*
-./gradlew test --tests com.neopragma.primefactors.step7.fail.* 
-./gradlew test --tests com.neopragma.primefactors.step7.pass.* 
-./gradlew test --tests com.neopragma.primefactors.step7.refactored.* 
-./gradlew test --tests com.neopragma.primefactors.checkerrors.* 
-./gradlew test --tests com.neopragma.primefactors.additional.* 
-```
+This is starter code for a remote Mob Programming session on 14 May 2020 to practice the Prime Factors kata. 
 
 Some references: 
 
