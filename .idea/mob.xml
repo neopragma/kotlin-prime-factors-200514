@@ -5,6 +5,7 @@
     <option name="baseBranch" value="master" />
     <option name="wipBranch" value="mob-session" />
     <option name="timerMinutes" value="10" />
+    <option name="startWithShare" value="true" />
     <option name="wipCommitMessage" value="mob next [ci-skip]" />
     <option name="nextStay" value="true" />
   </component>
